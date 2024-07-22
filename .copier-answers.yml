@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.4
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: ''
+author_name: ast79
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: tooltip-ui-demo
+project_short_description: tooltip demo the from jupyter-ui-demo extension in https://github.com/jupyterlab-contrib/jupyter-ui-toolkit
+    v0.16.6
+python_name: tooltip_ui_demo
+repository: https://github.com/ast79/tooltip-ui-demo
+test: false
