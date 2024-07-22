@@ -1,0 +1,58 @@
+/*
+    Distributed under the terms of the Modified BSD License.
+
+    See the JupyterLab Developer Guide for useful CSS Patterns:
+    https://jupyterlab.readthedocs.io/en/stable/developer/css.html
+*/
+
+root {
+	--avatar-fill-blue: royalblue;
+	--avatar-fill-red: indianred;
+	--avatar-color-light: white;
+	--avatar-color-dark: slategrey;
+	--badge-fill-blue: royalblue;
+	--badge-fill-red: indianred;
+	--badge-color-light: white;
+	--badge-color-dark: slategrey;
+	--card-height: 100px;
+}
+
+.jp-Artwork {
+	padding: 4px;
+	font-family: var(--jp-ui-font-family);
+	color: var(--jp-ui-font-color1);
+	font-size: var(--jp-ui-font-size1);
+	overflow: auto;
+}
+
+.jp-Artwork > .jp-Grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	height: 100%;
+	max-height: 500px;
+}
+
+.jp-Artwork > .jp-Grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	height: 100%;
+	max-height: 500px;
+}
+
+.jp-Artwork .jp-FlexColumn {
+	flex: 1 1 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: baseline;
+	justify-content: space-between;
+	padding: 4px;
+}
+
+.jp-Artwork .jp-FlexColumn > * {
+	flex: 0 0 auto;
+	margin: 4px;
+}
+
+.jp-Artwork .jp-FlexColumn > div > * {
+	margin: 2px;
+}
