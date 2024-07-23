@@ -2,7 +2,7 @@
 
 Unpublished tooltip demo from the jupyter-ui-demo extension in https://github.com/jupyterlab-contrib/jupyter-ui-toolkit v0.16.6
 
-Not having to filter out the part for the Tooltip also makes the code easier to read and to handle. The modifications were also intended to assist with learning the necessary skills inside a cocooning workflow.
+Not having to filter out the part for the Tooltip makes the code easier to read and to handle. The modifications were also intended to assist with learning the necessary skills inside a cocooning workflow.
 
 ## Requirements
 
