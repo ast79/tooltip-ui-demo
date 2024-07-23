@@ -1,6 +1,6 @@
 {
     "name": "tooltip-ui-demo",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "tooltip demo from the jupyter-ui-demo extension in https://github.com/jupyterlab-contrib/jupyter-ui-toolkit v0.16.6",
     "keywords": [
         "jupyter",

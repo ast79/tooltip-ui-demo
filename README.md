@@ -13,13 +13,13 @@ Not having to filter out the part for the Tooltip also makes the code easier to 
 To install the extension in an activated virtual environment, download the Python source package
 
 ```bash
-wget https://github.com/ast79/tooltip-ui-demo/releases/download/v0.1.0/tooltip_ui_demo-0.1.0.tar.gz
+wget https://github.com/ast79/tooltip-ui-demo/releases/download/v0.1.1/tooltip_ui_demo-0.1.1.tar.gz
 ```
 
 and execute within the environment:
 
 ```bash
-pip install tooltip_ui_demo-0.1.0.tar.gz jupyterlab
+pip install tooltip_ui_demo-0.1.1.tar.gz jupyterlab
 ```
 
 ## Uninstall
